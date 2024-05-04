@@ -11,9 +11,10 @@ M.sep_names = {
   thick = "thick",
   slant = "slant",
   slope = "slope",
+  pill = "pill",
   padded_slant = "padded_slant",
   padded_slope = "padded_slope",
-  pill = "pill",
+  padded_pill = "padded_pill",
 }
 
 ---@type table<string, string[]>
