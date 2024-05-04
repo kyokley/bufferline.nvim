@@ -23,10 +23,10 @@ M.sep_chars = {
   [M.sep_names.thick] = { "▌", "▐" },
   [M.sep_names.slant] = { "", "" },
   [M.sep_names.slope] = { "", "" },
-  [M.sep_names.pill] = { "", "" },
+  [M.sep_names.pill] = { "", "" },
   [M.sep_names.padded_slant] = { "" .. M.padding, "" .. M.padding },
   [M.sep_names.padded_slope] = { "" .. M.padding, "" .. M.padding },
-  [M.sep_names.padded_pill] = { "" .. M.padding, "" .. M.padding },
+  [M.sep_names.padded_pill] = { "" .. M.padding, "" .. M.padding },
 }
 
 M.positions_key = "BufferlinePositions"
